@@ -1,6 +1,4 @@
-# :Site Favoritos
-
-
+# Site Favoritos:
 
 Projeto desenvolvido em HTML para guardar meus sites favoritos
 ---
