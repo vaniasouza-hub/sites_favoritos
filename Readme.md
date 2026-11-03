@@ -1,11 +1,11 @@
-# Site Favoritos:
+# Sites Favoritos:
 
-Projeto desenvolvido em HTML para guardar meus sites favoritos
+Projeto desenvolvido em HTML para guardar meus sites favoritos.
 ---
 
 ## 📌 Sobre o Projeto
 
-O programa exibe imagens e links de direcionamento para o sites.
+O programa exibe imagens e links de direcionamento para os sites.
 
 ## 🛠️ Tecnologias 
 
