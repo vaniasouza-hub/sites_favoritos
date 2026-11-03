@@ -1,4 +1,6 @@
-# 📊 : Controle de Níveis de Água
+# :Site Favoritos
+
+
 
 Projeto desenvolvido em HTML para guardar meus sites favoritos
 ---
