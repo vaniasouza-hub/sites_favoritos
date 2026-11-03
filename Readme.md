@@ -9,7 +9,7 @@ O programa exibe imagens e links de direcionamento para o site
 
 ## 🛠️ Tecnologias 
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<a href="https://mozilla.org"><img src="https://shields.io" alt="HTML5"></a>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -18,7 +18,7 @@ O programa exibe imagens e links de direcionamento para o site
 
 ### Pré-requisitos
 Antes de começar, você precisará ter instalado em sua máquina:
-<a href="https://git-scm.com"><img src="https://shields.io" alt="Git"></a>
+<a href="https://mozilla.org"><img src="https://shields.io" alt="HTML5"></a>
 - [Git](https://git-scm.com/downloads)
 
 ### Passo a passo
