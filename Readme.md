@@ -11,7 +11,9 @@ O programa exibe imagens e links de direcionamento para o site
 
 ## 🛠️ Tecnologias 
 
-<a href="https://mozilla.org"><img src="https://shields.io" alt="HTML5"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+</a>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -20,7 +22,9 @@ O programa exibe imagens e links de direcionamento para o site
 
 ### Pré-requisitos
 Antes de começar, você precisará ter instalado em sua máquina:
-<a href="https://mozilla.org"><img src="https://shields.io" alt="HTML5"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+</a>
 - [Git](https://git-scm.com/downloads)
 
 ### Passo a passo
